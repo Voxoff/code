@@ -59,6 +59,13 @@ html {
   }
 }
 
+#logo {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  top: 15px;
+  left: 15px;
+}
 // media query base on height AND width
 //color scheme
 
